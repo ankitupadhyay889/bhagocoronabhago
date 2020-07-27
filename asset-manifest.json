@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhagocoronabhago/static/css/main.0722a84f.chunk.css",
+    "main.js": "/bhagocoronabhago/static/js/main.ae7cdf56.chunk.js",
+    "main.js.map": "/bhagocoronabhago/static/js/main.ae7cdf56.chunk.js.map",
+    "runtime-main.js": "/bhagocoronabhago/static/js/runtime-main.2b67b8d4.js",
+    "runtime-main.js.map": "/bhagocoronabhago/static/js/runtime-main.2b67b8d4.js.map",
+    "static/js/2.5eb0aee9.chunk.js": "/bhagocoronabhago/static/js/2.5eb0aee9.chunk.js",
+    "static/js/2.5eb0aee9.chunk.js.map": "/bhagocoronabhago/static/js/2.5eb0aee9.chunk.js.map",
+    "index.html": "/bhagocoronabhago/index.html",
+    "precache-manifest.3ee0e56270234233f1549e9d9fe860f9.js": "/bhagocoronabhago/precache-manifest.3ee0e56270234233f1549e9d9fe860f9.js",
+    "service-worker.js": "/bhagocoronabhago/service-worker.js",
+    "static/css/main.0722a84f.chunk.css.map": "/bhagocoronabhago/static/css/main.0722a84f.chunk.css.map",
+    "static/js/2.5eb0aee9.chunk.js.LICENSE.txt": "/bhagocoronabhago/static/js/2.5eb0aee9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b67b8d4.js",
+    "static/js/2.5eb0aee9.chunk.js",
+    "static/css/main.0722a84f.chunk.css",
+    "static/js/main.ae7cdf56.chunk.js"
+  ]
+}
