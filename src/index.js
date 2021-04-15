@@ -1,10 +1,7 @@
-import React from 'react';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter as Router } from "react-router-dom";
 
-import ReactDOM from 'react-dom';
-
-
-import Front from "./acovid19app/Front";
-import "./acovid19app/style.css";
-
-
-ReactDOM.render( <Front /> , document.getElementById("root"));
+ReactDOM.render(<Router><App /></Router>,document.getElementById("root"));
